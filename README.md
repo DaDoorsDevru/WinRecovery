@@ -7,11 +7,11 @@ It can (and probably will) run in WinPE if there's python installed (which is al
 It can run on windows 8 up to latest ones (needs to be python installed). (Sorry winXP+ users)
 
 ## wat languages supported
-WinRecovery is translated to **4** languages with **6** more coming.
+WinRecovery is translated to **5** languages with **5** more coming.
 
-Translated to: Russian, English, German, Spanish.
+Translated to: Russian, English, German, Spanish, Portuguese (Brazilian).
 
-WILL be also translated to: Portuguese (Brazilian), Portuguese (Portugal), Italian, Polish (nektarynki), Bulgarian, Ukranian.
+WILL be also translated to: Portuguese (Portugal), Italian, Polish (nektarynki), Bulgarian, Ukranian.
 
 There will be support for other languages like: Chinese, Korean, Japanese and etc., but probably in V2 (full) or V3 (betas)
 
