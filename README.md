@@ -1,11 +1,14 @@
 # WinRecovery
 ## About the tool (i dare w8l to copy this tool):
 WinRecovery (Old: RecoveryTool) is a multitool, made on: Batch, Python and VBS to help people restore their pc's!
+
 It can (and probably will) run in WinPE if there's python installed (which is almost zero), or use Legacy (Batch-only) version of WinRecovery (coming soon...)
+
 It can run on windows 8 up to latest ones (needs to be python installed). (Sorry winXP+ users)
+
 ## wat languages supported
 WinRecovery is translated to **4** languages with **6** more coming.
-Translated to: Russian, English, German, Spanish
+Translated to: Russian, English, German, Spanish.
 WILL be also translated to: Portuguese (Brazilian), Portuguese (Portugal), Italian, Polish (nektarynki), Bulgarian, Ukranian.
 There will be support for other languages like: Chinese, Korean, Japanese and etc., but probably in V2 (full) or V3 (betas)
 Credits for translations:
